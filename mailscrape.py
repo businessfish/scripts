@@ -1,7 +1,5 @@
 ###
-### author:     noah michaels nxm4189@rit.edu
-### class:      csec 471 penetration testing
-### assignment: homework 2 - email scraper
+### author:     noah michaels
 ### date:       10/7/2019
 ### version:    1
 ###
